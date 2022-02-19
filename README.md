@@ -7,4 +7,4 @@ A less featureful version of https://github.com/hoytech/vmtouch written in go as
 
 ### Screenshot with usage
 
-<img src=https://storage.googleapis.com/tmp-uploads-2adf0f005374/665cfbcb-ee73-4ea3-9ed4-1a0d989983dc.png>
+<img src=https://storage.googleapis.com/yesteapea/665cfbcb-ee73-4ea3-9ed4-1a0d989983dc.png>
